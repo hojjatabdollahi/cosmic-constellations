@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bundle id="io.github.hojjatabdollahi.cxc-system95">
+  <source type="git"
+          url="https://github.com/hojjatabdollahi/cxc-system95"
+          commit="5413a0d0a8a895f3510f0d2e565fb863e2cd6c54"/>
+  <developer id="io.github.hojjatabdollahi">
+    <name>hojjatabdollahi</name>
+  </developer>
+</bundle>
